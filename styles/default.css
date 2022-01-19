@@ -4,11 +4,13 @@ body
 	margin-left: 100px;
 	margin-right: 100px;
 	font-family: Century;
-	color: pink;
+	color: black;
 	background-color: #B0C4DE;
 	background-image: url("../images/design.jpg");
     	background-size: cover;
     	/*background-size: 100%;*/
+	font-size: 23px;
+  	margin: 0 80px;
 
 }
 
@@ -22,14 +24,14 @@ p
 
 {	
 	text-align: center;
-	background-color: purple;
+	background-color: #B0C4DE;
 }
 
 p2
 
 {
 	text-align: left;
-	background-color: royalblue;
+	background-color: #B0C4DE;
 }
 
 header
