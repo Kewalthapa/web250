@@ -1,0 +1,88 @@
+body
+{
+	margin-top: 40px;
+	margin-left: 100px;
+	margin-right: 100px;
+	font-family: Century;
+	color: pink;
+	background-color: lightgreen;
+	background-image: url("../images/design.jpg");
+    	background-size: cover;
+    	/*background-size: 100%;*/
+
+}
+
+h1, h2, h3, 
+{
+	text-align: center;
+	background-color: #ab6a6a;
+}
+
+p
+
+{	
+	text-align: center;
+	background-color: purple;
+}
+
+p2
+
+{
+	text-align: left;
+	background-color: royalblue;
+}
+
+header
+{
+	background-color: royalblue;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+
+main
+{
+	background-color: purple;
+	padding:10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+footer
+{
+	text-align: center;
+	background-color: purple;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+figcaption
+{
+	font-style: times new roman; 
+	
+}
+
+nav, nav a
+{
+	font-family: arial;
+	background-color: #f79e9e;
+	text-decoration: none;
+	padding:10px 20px;
+}
+
+.active nav
+{
+  background-color: white;
+  color: orange;
+}
+
+a:hover:not(.active) 
+{
+  background-color: green;
+  color: orange;
+}
+
+a {
+  color: royalblue; 
+}
+

@@ -1,0 +1,33 @@
+body
+{
+margin-top: 40px;
+	margin-left: 100px;
+	margin-right: 100px;
+	font-family: Century;
+	color: white;
+	background-color: lightgreen;
+	background-image: url("../images/design.jpg");
+    	background-size: cover;
+    	/*background-size: 100%;*/
+}
+
+h1, h2 
+{text-align: center;
+     background-color: #bf8888;
+}
+	 
+p 
+{ text-align: center;
+  color: black;
+}
+
+footer
+{
+	text-align: center;
+	background-color:;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+header
+{  text-align: center;
+}
