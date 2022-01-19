@@ -5,7 +5,7 @@ body
 	margin-right: 100px;
 	font-family: Century;
 	color: pink;
-	background-color: lightgreen;
+	background-color: #B0C4DE;
 	background-image: url("../images/design.jpg");
     	background-size: cover;
     	/*background-size: 100%;*/
@@ -34,7 +34,7 @@ p2
 
 header
 {
-	background-color: royalblue;
+	background-color: #B0C4DE;
 	text-align: center;
 	padding-top: 20px;
 	padding-bottom: 30px;
@@ -42,7 +42,7 @@ header
 
 main
 {
-	background-color: purple;
+	background-color: #B0C4DE;
 	padding:10px;
 	margin-top: 10px;
 	margin-bottom: 10px;
@@ -51,14 +51,14 @@ main
 footer
 {
 	text-align: center;
-	background-color: purple;
+	background-color: #B0C4DE;
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
 
 figcaption
 {
-	font-style: times new roman; 
+	font-style: 'Montserrat', sans-serif; 
 	
 }
 
