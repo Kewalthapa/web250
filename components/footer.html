@@ -18,12 +18,18 @@
 
 	<a href = "https://validator.w3.org/check?uri=">
 	<img src="images/yellow-button-html.png" width="88" height="31" alt="Link to HTML validator">
-		
 	</a>
+	
+	
 	
     	<a href = "https://jigsaw.w3.org/css-validator/validator?uri=">
 	<img src="images/blue-button-css.png" width="88" height="31" alt="Link to CSS validator">
 		
     </a>
+	
+	<script>
+		document.getElementById("htmlButton").setAttribute("href", "https://validator.w3.org/check?uri=" + location.href);
+		document.getElementById("validation_link_css").setAttribute("href", "https://jigsaw.w3.org/css-validator/validator?uri=" + location.href);
+	</script>
 
 </footer> 
