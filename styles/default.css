@@ -80,7 +80,7 @@ nav, nav a
 
 a:hover:not(.active) 
 {
-  background-color:;
+  background-color: green;
   color: orange;
 }
 
