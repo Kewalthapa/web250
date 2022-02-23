@@ -69,8 +69,7 @@ nav, nav a
 	font-family: arial;
 	background-color: #f79e9e;
 	text-decoration: none;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	padding: 10px; 10px;
 }
 
 .active nav
@@ -81,7 +80,7 @@ nav, nav a
 
 a:hover:not(.active) 
 {
-  background-color: green;
+  background-color:;
   color: orange;
 }
 
