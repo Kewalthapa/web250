@@ -13,16 +13,14 @@ body
 
 }
 
-h1, h2, h3, 
+h1, h2, h3
 {
 	text-align: center;
-	background-color: #ab6a6a;
 }
 
 p
 
 {	
-	text-align: center;
 	background-color: #B0C4DE;
 	font-style: sans-serif;
 }
