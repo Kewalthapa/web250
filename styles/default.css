@@ -63,6 +63,11 @@ figcaption
 	
 }
 
+figure 
+{
+  float: center;
+}
+
 nav, nav a
 {
 	font-family: arial;
