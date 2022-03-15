@@ -86,7 +86,8 @@ nav, nav a
 	font-family: arial;
 	background-color: #f79e9e;
 	text-decoration: none;
-	padding: 5px; 5px;
+	padding-top: 5px;
+	padding-buttom: 5px;
 	text-align: center;
 }
 
