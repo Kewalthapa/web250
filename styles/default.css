@@ -41,8 +41,8 @@ header
 {
 	background-color: #B0C4DE;
 	text-align: center;
-	padding-top: 20px;
-	padding-bottom: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 main
@@ -57,8 +57,8 @@ footer
 {
 	text-align: center;
 	background-color: #B0C4DE;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	padding-top: 7px;
+	padding-bottom: 7px;
 }
 
 figcaption
@@ -86,8 +86,8 @@ nav, nav a
 	font-family: arial;
 	background-color: #f79e9e;
 	text-decoration: none;
-	padding-top: 5px;
-	padding-buttom: 5px;
+	padding-top: 7px;
+	padding-buttom: 7px;
 	text-align: center;
 }
 
