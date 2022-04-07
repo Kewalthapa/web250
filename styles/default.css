@@ -99,7 +99,7 @@ nav, nav a
 
 a:hover:not(.active) 
 {
-  background-color: black;
+  background-color: gray;
   color: orange;
 }
 
