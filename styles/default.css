@@ -45,6 +45,23 @@ header
 	padding-bottom: 10px;
 }
 
+.logoHeader {
+	padding:10px;
+}
+
+.logoline {
+	text-align: center;
+	font-family: 'Calibri';
+	font-size: 2rem;
+	font-weight: bold;
+}
+
+.tagline {
+	text-align: center;
+	font-family: 'Calibri';
+	font-size: 1rem;
+}
+
 main
 {
 	background-color: #B0C4DE;
@@ -53,12 +70,19 @@ main
 	margin-bottom: 10px;
 }
 
+.logo {
+	width: 5%;
+	height:auto;
+	
+}
+
 footer
 {
 	text-align: center;
 	background-color: #B0C4DE;
-	padding-top: 7px;
-	padding-bottom: 7px;
+	left: 0;
+  	bottom: 0;
+  	width: 100%;
 }
 
 figcaption
@@ -86,8 +110,8 @@ nav, nav a
 	font-family: arial;
 	background-color: #f79e9e;
 	text-decoration: none;
-	padding-top: 7px;
-	padding-buttom: 7px;
+	margin: 0;
+ 	padding: 0px;
 	text-align: center;
 }
 
