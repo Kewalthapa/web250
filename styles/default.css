@@ -52,14 +52,16 @@ header
 .logoline {
 	text-align: center;
 	font-family: 'Calibri';
-	font-size: 2rem;
+	font-size: 3rem;
 	font-weight: bold;
+	color: red;
 }
 
 .tagline {
 	text-align: center;
 	font-family: 'Calibri';
 	font-size: 1rem;
+	color: green;
 }
 
 main
