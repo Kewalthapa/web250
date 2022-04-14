@@ -3,7 +3,7 @@ body
 	margin-top: 40px;
 	margin-left: 100px;
 	margin-right: 100px;
-	font-family: Century;
+	font-family: sans-serif;
 	color: black;
 	background-color: #B0C4DE;
     	background-size: cover;
@@ -89,7 +89,6 @@ footer
 
 figcaption
 {
-	font-style: 'Montserrat', sans-serif;
 	text-align: center;
 	
 }
